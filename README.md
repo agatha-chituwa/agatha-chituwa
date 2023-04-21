@@ -1,11 +1,12 @@
-                                                     Hi there 👋
-                                                     I'm Agatha! 🌴
+### Hi there 
+### I'm Agatha! 🌴
+
                                                      
 
 ### 🔭 I’m currently working on my final year project mobile app
 ### 🌱 I’m currently learning flutter(dart) ✨, android dev with java, and python
 ### 👯 I’m looking to collaborate on any cool open source projects, and an internship
-### 👨‍💻 All of my projects are available at idadelveloper.com/projects/
+### 👨‍💻 All of my projects are available at https://github.com/agatha-chituwa
 ### 🤔 I’m looking for help with ...
 ### 💬 Ask me about JavaScript, Python or how to contribute to open source
 
