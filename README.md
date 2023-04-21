@@ -1,5 +1,5 @@
-                                                    ### Hi there 👋
-                                                    ### I'm Agatha! 🌴
+                                                     Hi there 👋
+                                                     I'm Agatha! 🌴
 
 <!--
 **agatha-chituwa/agatha-chituwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
