@@ -1,4 +1,4 @@
-###                                                              Hi there ![HelloGIF](https://user-images.githubusercontent.com/61706565/233722736-068825ad-06fb-45cf-b294-87747868e143.gif)
+###                                                              Hi there 👋
 
 ###                                                              I'm Agatha! 🌴
 
