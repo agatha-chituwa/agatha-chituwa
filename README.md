@@ -4,8 +4,7 @@
                                                      
 
 ### 🔭 I’m currently working on my final year project mobile app
-### 🌱 I’m currently learning flutter(dart) ✨, android dev with
-       java, and python
+### 🌱 I’m currently learning flutter(dart) ✨, android dev with java, and python
 ### 👯 I’m looking to collaborate on any cool open source projects, and i am looking for any  internship
 ### 💬 Ask me about JavaScript
 
