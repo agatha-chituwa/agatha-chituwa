@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋,I'm Pemhoe Agatha! 🌴 </h1>
+<h1 align="center">Hello 👋,I'm Agatha Pemppho 🌴 </h1>
 <!-- <h3 align="center">A passionate software developer, open source enthusiast, and data scientist in Malawi.</h3> -->
 
                                                      
